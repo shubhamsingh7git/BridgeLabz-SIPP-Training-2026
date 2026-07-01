@@ -1,0 +1,61 @@
+MySQL Programming - Session 1 MCQ Questions with Answers
+
+1. What does DDL stand for?
+Answer: A) Data Definition Language
+
+2. Which DDL command is used to create a new table?
+Answer: B) CREATE
+
+3. What is the purpose of the ALTER command?
+Answer: B) Modify table structure
+
+4. Which DML command is used to insert data into a table?
+Answer: A) INSERT
+
+5. What does DML stand for?
+Answer: D) Data Manipulation Language
+
+6. Which command is used to remove a table from the database?
+Answer: B) DROP
+
+7. What is the difference between DELETE and TRUNCATE?
+Answer: B) TRUNCATE is faster
+
+8. Which statement is used to modify existing records?
+Answer: B) UPDATE
+
+9. Can we use WHERE clause with INSERT statement?
+Answer: B) No
+
+10. What is RDBMS?
+Answer: A) Relational Database Management System
+
+11. Which is a valid SQL data type?
+Answer: D) All of the above
+
+12. Can a table have multiple PRIMARY KEYs?
+Answer: C) Only if columns are combined
+
+13. What command is used to view table structure?
+Answer: D) Both B and C (DESC and DESCRIBE)
+
+14. Which is NOT a valid constraint?
+Answer: C) SECONDARY KEY
+
+15. What is the purpose of the INSERT command?
+Answer: A) Add new rows to table
+
+16. Can we insert NULL values into a column defined as NOT NULL?
+Answer: B) No
+
+17. What does the WHERE clause do in UPDATE statement?
+Answer: A) Specifies which rows to update
+
+18. Which keyword is used to prevent duplicate values in INSERT?
+Answer: A) UNIQUE
+
+19. What is a NULL value in SQL?
+Answer: C) Unknown/Missing value
+
+20. Can we add column constraints after table creation?
+Answer: A) Yes, using ALTER
